@@ -9,3 +9,6 @@ sudo mv apache-tomcat-8.5.94 tomcat8
 sudo chmod 777 -R tomcat8 
 cd /opt/tomcat8 
 ./bin/startup.sh
+
+
+
